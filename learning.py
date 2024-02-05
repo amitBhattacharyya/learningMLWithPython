@@ -1,4 +1,4 @@
-import numpy as np
+Import numpy as np
 
 
 def cross_entropy(Y, P):
@@ -11,4 +11,6 @@ def cross_entropy(Y, P):
 
 print(cross_entropy([1, 1], [0.4, 0.5]))
 
-
+B
+C
+in
